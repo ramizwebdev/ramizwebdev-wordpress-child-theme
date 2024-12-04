@@ -42,3 +42,19 @@ This child theme is designed specifically for the Astra theme. If you want to us
    ```css
    Template: twentytwentyone
    
+
+## 📧 Get in Touch
+
+Need help with customization or creating a high-performing website? [Contact Us](https://ramizwebdev.com/contact-us/) to discuss your project.
+
+---
+
+## 🤝 Connect With Us
+
+Follow us on social media to stay updated with the latest tips, tricks, and offers:
+
+- **[Facebook](https://www.facebook.com/profile.php?id=61567067315807)**: Ramiz Web Dev
+- **[Instagram](https://www.instagram.com/ramizwebdev/)**: @ramizwebdev
+- **[WhatsApp Channel](https://www.whatsapp.com/channel/0029VaY4KnCLikgDtzokSa1H)**: Ramiz Web Dev Channel
+- **[LinkedIn](https://www.linkedin.com/company/ramizwebdev/)**: Ramiz Web Dev on LinkedIn
+- **[Pinterest](https://in.pinterest.com/ramizwebdev/)**: Ramiz Web Dev
